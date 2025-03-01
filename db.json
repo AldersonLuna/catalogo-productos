@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "PHONE-S23-128GB",
+      "name": "Smartphone Galaxy S23",
+      "description": "Teléfono de última generación con pantalla AMOLED de 6.1 pulgadas, cámara de 50MP y procesador Snapdragon 8 Gen 2.",
+      "price": 799.99,
+      "discountPrice": 749.99,
+      "category": "smartphones",
+      "brand": "Samsung",
+      "stock": 15,
+      "imageUrl": "https://placehold.co/600x400?text=Galaxy+S23",
+      "rating": 4.7,
+      "reviewCount": 124,
+      "features": [
+        "Pantalla AMOLED de 6.1 pulgadas",
+        "Cámara de 50MP",
+        "Procesador Snapdragon 8 Gen 2",
+        "Batería de 3900mAh"
+      ],
+      "specifications": {
+        "display": "6.1 pulgadas AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "battery": "3900mAh"
+      },
+      "createdAt": "2024-02-15T08:00:00.000Z",
+      "updatedAt": "2024-02-20T10:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "sku": "LAPTOP-PRO16-M2",
+      "name": "Laptop Pro 16 M2",
+      "description": "Laptop de alto rendimiento con chip M2, pantalla Liquid Retina XDR de 16 pulgadas y 16GB de RAM.",
+      "price": 2499.99,
+      "category": "laptops",
+      "brand": "Apple",
+      "stock": 8,
+      "imageUrl": "https://placehold.co/600x400?text=Laptop+Pro+16",
+      "rating": 4.9,
+      "reviewCount": 87,
+      "features": [
+        "Chip M2 Pro/Max",
+        "Pantalla Liquid Retina XDR de 16 pulgadas",
+        "Hasta 32GB de RAM",
+        "Hasta 8TB de almacenamiento"
+      ],
+      "specifications": {
+        "display": "16 pulgadas Liquid Retina XDR",
+        "processor": "Apple M2 Pro",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "battery": "Hasta 22 horas"
+      },
+      "createdAt": "2024-01-10T09:15:00.000Z",
+      "updatedAt": "2024-02-18T14:20:00.000Z"
+    },
+    {
+      "id": 3,
+      "sku": "TABLET-TAB-S9",
+      "name": "Tablet Tab S9",
+      "description": "Tablet premium con pantalla AMOLED de 11 pulgadas, S Pen incluido y resistencia al agua IP68.",
+      "price": 899.99,
+      "discountPrice": 849.99,
+      "category": "tablets",
+      "brand": "Samsung",
+      "stock": 12,
+      "imageUrl": "https://placehold.co/600x400?text=Tab+S9",
+      "rating": 4.6,
+      "reviewCount": 56,
+      "features": [
+        "Pantalla AMOLED de 11 pulgadas",
+        "Procesador Snapdragon 8 Gen 2",
+        "S Pen incluido",
+        "Resistencia al agua IP68"
+      ],
+      "specifications": {
+        "display": "11 pulgadas AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "battery": "8400mAh"
+      },
+      "createdAt": "2024-01-25T11:30:00.000Z",
+      "updatedAt": "2024-02-22T09:45:00.000Z"
+    },
+    {
+      "id": 4,
+      "sku": "WATCH-ULTRA-2",
+      "name": "Smartwatch Ultra 2",
+      "description": "Reloj inteligente avanzado con GPS, monitor cardíaco, ECG y resistencia al agua hasta 100m.",
+      "price": 799.99,
+      "category": "wearables",
+      "brand": "Apple",
+      "stock": 20,
+      "imageUrl": "https://placehold.co/600x400?text=Watch+Ultra+2",
+      "rating": 4.8,
+      "reviewCount": 73,
+      "features": [
+        "GPS preciso",
+        "Monitor cardíaco",
+        "ECG",
+        "Resistencia al agua hasta 100m"
+      ],
+      "specifications": {
+        "display": "OLED Always-On",
+        "size": "49mm",
+        "water_resistance": "100m",
+        "battery": "Hasta 36 horas"
+      },
+      "createdAt": "2024-02-05T07:45:00.000Z",
+      "updatedAt": "2024-02-25T16:10:00.000Z"
+    },
+    {
+      "id": 5,
+      "sku": "TV-OLED-65-G3",
+      "name": "TV OLED 65\" G3",
+      "description": "Televisor OLED 4K de 65 pulgadas con tecnología evo, procesador α9 Gen 6 y soporte para Dolby Vision y Dolby Atmos.",
+      "price": 2499.99,
+      "discountPrice": 2299.99,
+      "category": "tvs",
+      "brand": "LG",
+      "stock": 5,
+      "imageUrl": "https://placehold.co/600x400?text=OLED+65+G3",
+      "rating": 4.9,
+      "reviewCount": 42,
+      "features": [
+        "Panel OLED evo",
+        "Procesador α9 Gen 6",
+        "Dolby Vision y Dolby Atmos",
+        "webOS 23"
+      ],
+      "specifications": {
+        "display": "65 pulgadas OLED",
+        "resolution": "4K Ultra HD",
+        "refresh_rate": "120Hz",
+        "smart_platform": "webOS 23",
+        "hdmi_ports": "4 (HDMI 2.1)"
+      },
+      "createdAt": "2024-01-15T13:20:00.000Z",
+      "updatedAt": "2024-02-19T11:55:00.000Z"
+    },
+    {
+      "id": 6,
+      "sku": "EARBUDS-PRO-2",
+      "name": "Auriculares Pro 2",
+      "description": "Auriculares inalámbricos con cancelación activa de ruido, audio espacial y hasta 30 horas de batería con estuche.",
+      "price": 249.99,
+      "category": "audio",
+      "brand": "Apple",
+      "stock": 25,
+      "imageUrl": "https://placehold.co/600x400?text=Earbuds+Pro+2",
+      "rating": 4.7,
+      "reviewCount": 118,
+      "features": [
+        "Cancelación activa de ruido",
+        "Audio espacial",
+        "Resistencia al sudor y agua",
+        "30 horas de batería con estuche"
+      ],
+      "specifications": {
+        "driver": "Transductor dinámico",
+        "bluetooth": "5.3",
+        "battery": "6h (ANC on), 30h con estuche",
+        "microphones": "Tres micrófonos por auricular"
+      },
+      "createdAt": "2024-02-08T10:10:00.000Z",
+      "updatedAt": "2024-02-24T08:35:00.000Z"
+    },
+    {
+      "id": 7,
+      "sku": "CAMERA-Z9",
+      "name": "Cámara Mirrorless Z9",
+      "description": "Cámara mirrorless profesional con sensor CMOS de 45.7MP, grabación 8K y sistema AF avanzado.",
+      "price": 5499.99,
+      "category": "cameras",
+      "brand": "Nikon",
+      "stock": 3,
+      "imageUrl": "https://placehold.co/600x400?text=Camera+Z9",
+      "rating": 4.9,
+      "reviewCount": 28,
+      "features": [
+        "Sensor CMOS de 45.7MP",
+        "Grabación de video 8K",
+        "Sistema AF avanzado",
+        "3D-tracking"
+      ],
+      "specifications": {
+        "sensor": "CMOS de 45.7MP",
+        "iso_range": "64-25600 (expandible)",
+        "video": "8K30p, 4K120p",
+        "stabilization": "VR integrado de 5 ejes"
+      },
+      "createdAt": "2024-01-20T15:45:00.000Z",
+      "updatedAt": "2024-02-21T12:30:00.000Z"
+    },
+    {
+      "id": 8,
+      "sku": "CONSOLE-PS5-PRO",
+      "name": "Consola PS5 Pro",
+      "description": "Consola de videojuegos de última generación con ray tracing avanzado, SSD ultrarrápido y soporte para 8K.",
+      "price": 599.99,
+      "category": "gaming",
+      "brand": "Sony",
+      "stock": 7,
+      "imageUrl": "https://placehold.co/600x400?text=PS5+Pro",
+      "rating": 4.8,
+      "reviewCount": 95,
+      "features": [
+        "Ray tracing avanzado",
+        "SSD ultrarrápido",
+        "Soporte para 8K",
+        "Audio 3D Tempest"
+      ],
+      "specifications": {
+        "cpu": "AMD Zen 2 (8 núcleos)",
+        "gpu": "AMD RDNA 2 mejorada",
+        "storage": "SSD de 1TB",
+        "memory": "16GB GDDR6"
+      },
+      "createdAt": "2024-01-30T09:25:00.000Z",
+      "updatedAt": "2024-02-23T14:15:00.000Z"
+    },
+    {
+      "id": 9,
+      "sku": "MONITOR-32-U4",
+      "name": "Monitor UltraSharp 32 U4",
+      "description": "Monitor profesional de 32 pulgadas 4K con panel IPS, cobertura del 98% DCI-P3 y calibración de fábrica.",
+      "price": 1099.99,
+      "discountPrice": 999.99,
+      "category": "monitors",
+      "brand": "Dell",
+      "stock": 10,
+      "imageUrl": "https://placehold.co/600x400?text=Monitor+U4",
+      "rating": 4.7,
+      "reviewCount": 52,
+      "features": [
+        "Panel IPS 4K",
+        "Cobertura del 98% DCI-P3",
+        "Calibración de fábrica",
+        "Puertos USB-C con Power Delivery"
+      ],
+      "specifications": {
+        "display": "32 pulgadas IPS",
+        "resolution": "3840 x 2160 (4K)",
+        "color_gamut": "98% DCI-P3",
+        "brightness": "400 nits",
+        "contrast": "1300:1"
+      },
+      "createdAt": "2024-02-12T12:40:00.000Z",
+      "updatedAt": "2024-02-26T10:20:00.000Z"
+    },
+    {
+      "id": 10,
+      "sku": "PRINTER-PHOTO-ET8550",
+      "name": "Impresora Fotográfica ET-8550",
+      "description": "Impresora fotográfica de formato ancho con sistema de tanque de tinta, impresión hasta A3+ y 6 colores.",
+      "price": 799.99,
+      "category": "printers",
+      "brand": "Epson",
+      "stock": 6,
+      "imageUrl": "https://placehold.co/600x400?text=Printer+ET8550",
+      "rating": 4.6,
+      "reviewCount": 37,
+      "features": [
+        "Sistema de tanque de tinta",
+        "Impresión hasta A3+",
+        "6 colores",
+        "Pantalla táctil"
+      ],
+      "specifications": {
+        "type": "Inyección de tinta",
+        "colors": "6 colores",
+        "max_resolution": "5760 x 1440 dpi",
+        "connectivity": "USB, Ethernet, Wi-Fi"
+      },
+      "createdAt": "2024-02-02T14:55:00.000Z",
+      "updatedAt": "2024-02-27T15:40:00.000Z"
+    }
+  ],
+  "brands": [
+    { "id": 1, "name": "Samsung" },
+    { "id": 2, "name": "Apple" },
+    { "id": 3, "name": "LG" },
+    { "id": 4, "name": "Nikon" },
+    { "id": 5, "name": "Sony" },
+    { "id": 6, "name": "Dell" },
+    { "id": 7, "name": "Epson" }
+  ],
+  "categories": [
+    { "id": 1, "name": "smartphones" },
+    { "id": 2, "name": "laptops" },
+    { "id": 3, "name": "tablets" },
+    { "id": 4, "name": "wearables" },
+    { "id": 5, "name": "tvs" },
+    { "id": 6, "name": "audio" },
+    { "id": 7, "name": "cameras" },
+    { "id": 8, "name": "gaming" },
+    { "id": 9, "name": "monitors" },
+    { "id": 10, "name": "printers" }
+  ]
+}
